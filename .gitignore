@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Com.KiddoPay.Wallet.Business/bin
+/Com.KiddoPay.Wallet.Business/obj
+/Com.KiddoPay.Wallet.Data/bin
+/Com.KiddoPay.Wallet.Data/obj
+/Com.KiddoPay.Wallet.Service/bin
+/Com.KiddoPay.Wallet.Service/obj
+/Com.KiddoPay.Wallet.XTest/bin
+/Com.KiddoPay.Wallet.XTest/obj
